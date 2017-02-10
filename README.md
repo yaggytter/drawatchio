@@ -25,8 +25,8 @@ Easy 7 steps to start monitoring!
 1. Set plugin to draw.io.
  * Click draw.io menu => Extras => Plugins...
  * Add following URLs and click Apply button.
- https://sdk.amazonaws.com/js/aws-sdk-2.7.20.min.js
- https://cdn.rawgit.com/yaggytter/drawatchio/dfb31691/web/js/drawatchio.js
+    * https://sdk.amazonaws.com/js/aws-sdk-2.7.20.min.js
+    * https://cdn.rawgit.com/yaggytter/drawatchio/dfb31691/web/js/drawatchio.js
 1. Reload diagram page. And right click any objects and click "Start Monitoring" popup menu to start monitoring in draw.io.
 
 ![](https://github.com/yaggytter/drawatchio/blob/master/drawatchiodemo.gif?raw=true)
