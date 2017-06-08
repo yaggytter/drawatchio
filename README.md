@@ -31,6 +31,10 @@ Easy 7 steps to start monitoring!
 
 ![](https://github.com/yaggytter/drawatchio/blob/master/drawatchiodemo.gif?raw=true)
 
+### Configuration Movie
+
+ * https://youtu.be/xiCtHSh85Mg
+
 ## Contributing
 
 1. Fork it ( https://github.com/yaggytter/drawatchio/fork )
